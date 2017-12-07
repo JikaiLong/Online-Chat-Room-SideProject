@@ -1,3 +1,1 @@
-# SideProject
-# Simple Socket Chat Room
-# First practice in node.js
+# Side project - first attempt on nodejs with a socketio 
